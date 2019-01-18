@@ -1,0 +1,19 @@
+// Bootstrap Variables
+// you can use and override any variable from /node_modules/bootstrap/scss/_variables.scss here
+
+$enable-rounded: false !global;
+$spacer: 1.5rem !global;
+$grid-gutter-width: 50px !global;
+$font-family-sans-serif: "Roboto Condensed", -apple-system, BlinkMacSystemFont, Roboto, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !global;
+$font-size-base: 1rem !global;
+$font-weight-light: 300 !global;
+$font-weight-normal: 300 !global;
+$font-weight-bold: 700 !global;
+$line-height-base: 1.8 !global;
+$line-height-lg: 1.8 !global;
+$line-height-sm: 1.8 !global;
+$headings-font-weight: 300 !global;
+$headings-line-height: 1.5 !global;
+$link-decoration: underline !global;
+$link-decoration: underline;
+$link-decoration: $link-decoration !global;
